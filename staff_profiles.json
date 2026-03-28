@@ -1,0 +1,1 @@
+[\n  {\n    "name": "John Doe",\n    "specialty": "Fade Cuts",\n    "experience": 5,\n    "rating": 4.8\n  },\n  {\n    "name": "Jane Smith",\n    "specialty": "Hair Coloring",\n    "experience": 7,\n    "rating": 4.9\n  },\n  {\n    "name": "Mike Johnson",\n    "specialty": "Beard Trims",\n    "experience": 3,\n    "rating": 4.5\n  }\n]
